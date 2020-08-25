@@ -11,11 +11,11 @@ public class Principal {
 	public static void main(String[] args) {
 
 		Endereco endereco = new Endereco();
-		endereco.setNome_rua("Estrada das Nações");
+		endereco.setNome_rua("Sitío do Pica Pau Amarelo");
 		endereco.setNumero(395);
-		endereco.setCep("06422-100");
-		endereco.setBairro("Vl. Iracema");
-		endereco.setCidade("Barueri");
+		endereco.setCep("06266-110");
+		endereco.setBairro("Vila Césamo");
+		endereco.setCidade("Liverpool");
 		endereco.setUf("SP");
 		endereco.setComplemento("Sem complemento");
 		
