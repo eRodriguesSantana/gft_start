@@ -18,7 +18,7 @@ public class Principal {
 		cp.setNumero("567-8");
 		cp.setSaldo(10.500);
 		cp.rendimento();
-		System.out.println(cp.toString());
+		System.out.printf(cp.toString());
 
 	}
 
